@@ -1,0 +1,48 @@
+C:/Users/s7.LAU/source/repos/Ащев сортировка массива/bin/Debug/net5.0/Ащев сортировка массива.exe
+C:/Users/s7.LAU/source/repos/Ащев сортировка массива/bin/Debug/net5.0/Ащев сортировка массива.deps.json
+C:/Users/s7.LAU/source/repos/Ащев сортировка массива/bin/Debug/net5.0/Ащев сортировка массива.runtimeconfig.json
+C:/Users/s7.LAU/source/repos/Ащев сортировка массива/bin/Debug/net5.0/Ащев сортировка массива.runtimeconfig.dev.json
+C:/Users/s7.LAU/source/repos/Ащев сортировка массива/bin/Debug/net5.0/Ащев сортировка массива.dll
+C:/Users/s7.LAU/source/repos/Ащев сортировка массива/bin/Debug/net5.0/ref/Ащев сортировка массива.dll
+C:/Users/s7.LAU/source/repos/Ащев сортировка массива/bin/Debug/net5.0/Ащев сортировка массива.pdb
+C:/Users/s7.LAU/source/repos/Ащев сортировка массива/obj/Debug/net5.0/Ащев сортировка массива.csproj.AssemblyReference.cache
+C:/Users/s7.LAU/source/repos/Ащев сортировка массива/obj/Debug/net5.0/Ащев сортировка массива.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/s7.LAU/source/repos/Ащев сортировка массива/obj/Debug/net5.0/Ащев сортировка массива.AssemblyInfoInputs.cache
+C:/Users/s7.LAU/source/repos/Ащев сортировка массива/obj/Debug/net5.0/Ащев сортировка массива.AssemblyInfo.cs
+C:/Users/s7.LAU/source/repos/Ащев сортировка массива/obj/Debug/net5.0/Ащев сортировка массива.csproj.CoreCompileInputs.cache
+C:/Users/s7.LAU/source/repos/Ащев сортировка массива/obj/Debug/net5.0/Ащев сортировка массива.dll
+C:/Users/s7.LAU/source/repos/Ащев сортировка массива/obj/Debug/net5.0/ref/Ащев сортировка массива.dll
+C:/Users/s7.LAU/source/repos/Ащев сортировка массива/obj/Debug/net5.0/Ащев сортировка массива.pdb
+C:/Users/s7.LAU/source/repos/Ащев сортировка массива/obj/Debug/net5.0/Ащев сортировка массива.genruntimeconfig.cache
+/Users/daniel/Прог на Mac/C#/Ащев сортировка массива/bin/Debug/net5.0/Ащев сортировка массива
+/Users/daniel/Прог на Mac/C#/Ащев сортировка массива/bin/Debug/net5.0/Ащев сортировка массива.deps.json
+/Users/daniel/Прог на Mac/C#/Ащев сортировка массива/bin/Debug/net5.0/Ащев сортировка массива.runtimeconfig.json
+/Users/daniel/Прог на Mac/C#/Ащев сортировка массива/bin/Debug/net5.0/Ащев сортировка массива.runtimeconfig.dev.json
+/Users/daniel/Прог на Mac/C#/Ащев сортировка массива/bin/Debug/net5.0/Ащев сортировка массива.dll
+/Users/daniel/Прог на Mac/C#/Ащев сортировка массива/bin/Debug/net5.0/Ащев сортировка массива.pdb
+/Users/daniel/Прог на Mac/C#/Ащев сортировка массива/obj/Debug/net5.0/Ащев сортировка массива.csproj.AssemblyReference.cache
+/Users/daniel/Прог на Mac/C#/Ащев сортировка массива/obj/Debug/net5.0/Ащев сортировка массива.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel/Прог на Mac/C#/Ащев сортировка массива/obj/Debug/net5.0/Ащев сортировка массива.AssemblyInfoInputs.cache
+/Users/daniel/Прог на Mac/C#/Ащев сортировка массива/obj/Debug/net5.0/Ащев сортировка массива.AssemblyInfo.cs
+/Users/daniel/Прог на Mac/C#/Ащев сортировка массива/obj/Debug/net5.0/Ащев сортировка массива.csproj.CoreCompileInputs.cache
+/Users/daniel/Прог на Mac/C#/Ащев сортировка массива/obj/Debug/net5.0/Ащев сортировка массива.dll
+/Users/daniel/Прог на Mac/C#/Ащев сортировка массива/obj/Debug/net5.0/refint/Ащев сортировка массива.dll
+/Users/daniel/Прог на Mac/C#/Ащев сортировка массива/obj/Debug/net5.0/Ащев сортировка массива.pdb
+/Users/daniel/Прог на Mac/C#/Ащев сортировка массива/obj/Debug/net5.0/Ащев сортировка массива.genruntimeconfig.cache
+/Users/daniel/Прог на Mac/C#/Ащев сортировка массива/obj/Debug/net5.0/ref/Ащев сортировка массива.dll
+C:\Прог на Windows\C#\Ащев сортировка массива\bin\Debug\net5.0\Ащев сортировка массива.exe
+C:\Прог на Windows\C#\Ащев сортировка массива\bin\Debug\net5.0\Ащев сортировка массива.deps.json
+C:\Прог на Windows\C#\Ащев сортировка массива\bin\Debug\net5.0\Ащев сортировка массива.runtimeconfig.json
+C:\Прог на Windows\C#\Ащев сортировка массива\bin\Debug\net5.0\Ащев сортировка массива.runtimeconfig.dev.json
+C:\Прог на Windows\C#\Ащев сортировка массива\bin\Debug\net5.0\Ащев сортировка массива.dll
+C:\Прог на Windows\C#\Ащев сортировка массива\bin\Debug\net5.0\Ащев сортировка массива.pdb
+C:\Прог на Windows\C#\Ащев сортировка массива\obj\Debug\net5.0\Ащев сортировка массива.csproj.AssemblyReference.cache
+C:\Прог на Windows\C#\Ащев сортировка массива\obj\Debug\net5.0\Ащев сортировка массива.GeneratedMSBuildEditorConfig.editorconfig
+C:\Прог на Windows\C#\Ащев сортировка массива\obj\Debug\net5.0\Ащев сортировка массива.AssemblyInfoInputs.cache
+C:\Прог на Windows\C#\Ащев сортировка массива\obj\Debug\net5.0\Ащев сортировка массива.AssemblyInfo.cs
+C:\Прог на Windows\C#\Ащев сортировка массива\obj\Debug\net5.0\Ащев сортировка массива.csproj.CoreCompileInputs.cache
+C:\Прог на Windows\C#\Ащев сортировка массива\obj\Debug\net5.0\Ащев сортировка массива.dll
+C:\Прог на Windows\C#\Ащев сортировка массива\obj\Debug\net5.0\refint\Ащев сортировка массива.dll
+C:\Прог на Windows\C#\Ащев сортировка массива\obj\Debug\net5.0\Ащев сортировка массива.pdb
+C:\Прог на Windows\C#\Ащев сортировка массива\obj\Debug\net5.0\Ащев сортировка массива.genruntimeconfig.cache
+C:\Прог на Windows\C#\Ащев сортировка массива\obj\Debug\net5.0\ref\Ащев сортировка массива.dll

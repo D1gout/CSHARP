@@ -1,0 +1,15 @@
+C:\Users\danil\source\repos\Ащев\bin\Debug\net6.0\Ащев.exe
+C:\Users\danil\source\repos\Ащев\bin\Debug\net6.0\Ащев.deps.json
+C:\Users\danil\source\repos\Ащев\bin\Debug\net6.0\Ащев.runtimeconfig.json
+C:\Users\danil\source\repos\Ащев\bin\Debug\net6.0\Ащев.dll
+C:\Users\danil\source\repos\Ащев\bin\Debug\net6.0\Ащев.pdb
+C:\Users\danil\source\repos\Ащев\obj\Debug\net6.0\Ащев.csproj.AssemblyReference.cache
+C:\Users\danil\source\repos\Ащев\obj\Debug\net6.0\Ащев.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\source\repos\Ащев\obj\Debug\net6.0\Ащев.AssemblyInfoInputs.cache
+C:\Users\danil\source\repos\Ащев\obj\Debug\net6.0\Ащев.AssemblyInfo.cs
+C:\Users\danil\source\repos\Ащев\obj\Debug\net6.0\Ащев.csproj.CoreCompileInputs.cache
+C:\Users\danil\source\repos\Ащев\obj\Debug\net6.0\Ащев.dll
+C:\Users\danil\source\repos\Ащев\obj\Debug\net6.0\refint\Ащев.dll
+C:\Users\danil\source\repos\Ащев\obj\Debug\net6.0\Ащев.pdb
+C:\Users\danil\source\repos\Ащев\obj\Debug\net6.0\Ащев.genruntimeconfig.cache
+C:\Users\danil\source\repos\Ащев\obj\Debug\net6.0\ref\Ащев.dll

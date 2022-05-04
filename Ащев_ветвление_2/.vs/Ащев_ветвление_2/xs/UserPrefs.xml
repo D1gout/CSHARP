@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{6A942E75-5970-4700-B80E-159FD8BC7168}|Default">
+  <MonoDevelop.Ide.ItemProperties.Ащев__ветвление__2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ащев_ветвление_2/Program.cs">
+    <Files>
+      <File FileName="Ащев_ветвление_2/Program.cs" Line="18" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,32 @@
+C:\Users\danil\Documents\C#\Ащев_ветвление_3\Ащев_ветвление_3\bin\Debug\net5.0\Ащев_ветвление_3.exe
+C:\Users\danil\Documents\C#\Ащев_ветвление_3\Ащев_ветвление_3\bin\Debug\net5.0\Ащев_ветвление_3.deps.json
+C:\Users\danil\Documents\C#\Ащев_ветвление_3\Ащев_ветвление_3\bin\Debug\net5.0\Ащев_ветвление_3.runtimeconfig.json
+C:\Users\danil\Documents\C#\Ащев_ветвление_3\Ащев_ветвление_3\bin\Debug\net5.0\Ащев_ветвление_3.runtimeconfig.dev.json
+C:\Users\danil\Documents\C#\Ащев_ветвление_3\Ащев_ветвление_3\bin\Debug\net5.0\Ащев_ветвление_3.dll
+C:\Users\danil\Documents\C#\Ащев_ветвление_3\Ащев_ветвление_3\bin\Debug\net5.0\Ащев_ветвление_3.pdb
+C:\Users\danil\Documents\C#\Ащев_ветвление_3\Ащев_ветвление_3\obj\Debug\net5.0\Ащев_ветвление_3.csproj.AssemblyReference.cache
+C:\Users\danil\Documents\C#\Ащев_ветвление_3\Ащев_ветвление_3\obj\Debug\net5.0\Ащев_ветвление_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\Documents\C#\Ащев_ветвление_3\Ащев_ветвление_3\obj\Debug\net5.0\Ащев_ветвление_3.AssemblyInfoInputs.cache
+C:\Users\danil\Documents\C#\Ащев_ветвление_3\Ащев_ветвление_3\obj\Debug\net5.0\Ащев_ветвление_3.AssemblyInfo.cs
+C:\Users\danil\Documents\C#\Ащев_ветвление_3\Ащев_ветвление_3\obj\Debug\net5.0\Ащев_ветвление_3.csproj.CoreCompileInputs.cache
+C:\Users\danil\Documents\C#\Ащев_ветвление_3\Ащев_ветвление_3\obj\Debug\net5.0\Ащев_ветвление_3.dll
+C:\Users\danil\Documents\C#\Ащев_ветвление_3\Ащев_ветвление_3\obj\Debug\net5.0\refint\Ащев_ветвление_3.dll
+C:\Users\danil\Documents\C#\Ащев_ветвление_3\Ащев_ветвление_3\obj\Debug\net5.0\Ащев_ветвление_3.pdb
+C:\Users\danil\Documents\C#\Ащев_ветвление_3\Ащев_ветвление_3\obj\Debug\net5.0\Ащев_ветвление_3.genruntimeconfig.cache
+C:\Users\danil\Documents\C#\Ащев_ветвление_3\Ащев_ветвление_3\obj\Debug\net5.0\ref\Ащев_ветвление_3.dll
+C:\Прог на Windows\C#\Ащев_ветвление_3\Ащев_ветвление_3\bin\Debug\net5.0\Ащев_ветвление_3.exe
+C:\Прог на Windows\C#\Ащев_ветвление_3\Ащев_ветвление_3\bin\Debug\net5.0\Ащев_ветвление_3.deps.json
+C:\Прог на Windows\C#\Ащев_ветвление_3\Ащев_ветвление_3\bin\Debug\net5.0\Ащев_ветвление_3.runtimeconfig.json
+C:\Прог на Windows\C#\Ащев_ветвление_3\Ащев_ветвление_3\bin\Debug\net5.0\Ащев_ветвление_3.runtimeconfig.dev.json
+C:\Прог на Windows\C#\Ащев_ветвление_3\Ащев_ветвление_3\bin\Debug\net5.0\Ащев_ветвление_3.dll
+C:\Прог на Windows\C#\Ащев_ветвление_3\Ащев_ветвление_3\bin\Debug\net5.0\Ащев_ветвление_3.pdb
+C:\Прог на Windows\C#\Ащев_ветвление_3\Ащев_ветвление_3\obj\Debug\net5.0\Ащев_ветвление_3.csproj.AssemblyReference.cache
+C:\Прог на Windows\C#\Ащев_ветвление_3\Ащев_ветвление_3\obj\Debug\net5.0\Ащев_ветвление_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Прог на Windows\C#\Ащев_ветвление_3\Ащев_ветвление_3\obj\Debug\net5.0\Ащев_ветвление_3.AssemblyInfoInputs.cache
+C:\Прог на Windows\C#\Ащев_ветвление_3\Ащев_ветвление_3\obj\Debug\net5.0\Ащев_ветвление_3.AssemblyInfo.cs
+C:\Прог на Windows\C#\Ащев_ветвление_3\Ащев_ветвление_3\obj\Debug\net5.0\Ащев_ветвление_3.csproj.CoreCompileInputs.cache
+C:\Прог на Windows\C#\Ащев_ветвление_3\Ащев_ветвление_3\obj\Debug\net5.0\Ащев_ветвление_3.dll
+C:\Прог на Windows\C#\Ащев_ветвление_3\Ащев_ветвление_3\obj\Debug\net5.0\refint\Ащев_ветвление_3.dll
+C:\Прог на Windows\C#\Ащев_ветвление_3\Ащев_ветвление_3\obj\Debug\net5.0\Ащев_ветвление_3.pdb
+C:\Прог на Windows\C#\Ащев_ветвление_3\Ащев_ветвление_3\obj\Debug\net5.0\Ащев_ветвление_3.genruntimeconfig.cache
+C:\Прог на Windows\C#\Ащев_ветвление_3\Ащев_ветвление_3\obj\Debug\net5.0\ref\Ащев_ветвление_3.dll

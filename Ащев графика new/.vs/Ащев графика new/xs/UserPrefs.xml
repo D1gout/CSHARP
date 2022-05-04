@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{D106A71B-7599-4570-8C7F-79D224725526}|Default">
+  <Debugger.DebugSourceFolders>
+    <String>/Users/daniel/Library/Caches/VisualStudio/17.0/Symbols/mono/mono/adf1bc4335d710088c58e824b6027255096cc295</String>
+  </Debugger.DebugSourceFolders>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Form1.cs">
+    <Files>
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Form1.cs" Line="94" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ащев графика new" expanded="True">
+            <Node name="Ащев графика new" expanded="True">
+              <Node name="Form1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Ащев_220графика_220new PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

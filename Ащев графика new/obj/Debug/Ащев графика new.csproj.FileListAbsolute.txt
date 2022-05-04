@@ -1,0 +1,31 @@
+C:/Users/s7.LAU/source/repos/Ащев графика new/bin/Debug/Ащев графика new.exe.config
+C:/Users/s7.LAU/source/repos/Ащев графика new/bin/Debug/Ащев графика new.exe
+C:/Users/s7.LAU/source/repos/Ащев графика new/bin/Debug/Ащев графика new.pdb
+C:/Users/s7.LAU/source/repos/Ащев графика new/obj/Debug/Ащев графика new.csproj.AssemblyReference.cache
+C:/Users/s7.LAU/source/repos/Ащев графика new/obj/Debug/Ащев_графика_new.Form1.resources
+C:/Users/s7.LAU/source/repos/Ащев графика new/obj/Debug/Ащев_графика_new.Properties.Resources.resources
+C:/Users/s7.LAU/source/repos/Ащев графика new/obj/Debug/Ащев графика new.csproj.GenerateResource.cache
+C:/Users/s7.LAU/source/repos/Ащев графика new/obj/Debug/Ащев графика new.csproj.CoreCompileInputs.cache
+C:/Users/s7.LAU/source/repos/Ащев графика new/obj/Debug/Ащев графика new.exe
+C:/Users/s7.LAU/source/repos/Ащев графика new/obj/Debug/Ащев графика new.pdb
+/Volumes/MACOS 12/Ащев графика new/bin/Debug/Ащев графика new.exe.config
+/Volumes/MACOS 12/Ащев графика new/bin/Debug/Ащев графика new.exe
+/Volumes/MACOS 12/Ащев графика new/bin/Debug/Ащев графика new.pdb
+/Volumes/MACOS 12/Ащев графика new/obj/Debug/Ащев графика new.csproj.AssemblyReference.cache
+/Volumes/MACOS 12/Ащев графика new/obj/Debug/Ащев_графика_new.Form1.resources
+/Volumes/MACOS 12/Ащев графика new/obj/Debug/Ащев_графика_new.Properties.Resources.resources
+/Volumes/MACOS 12/Ащев графика new/obj/Debug/Ащев графика new.csproj.GenerateResource.cache
+/Volumes/MACOS 12/Ащев графика new/obj/Debug/Ащев графика new.csproj.CoreCompileInputs.cache
+/Volumes/MACOS 12/Ащев графика new/obj/Debug/Ащев графика new.exe
+/Volumes/MACOS 12/Ащев графика new/obj/Debug/Ащев графика new.pdb
+C:\Прог на Windows\C#\Ащев графика new\obj\Debug\Ащев графика new.csproj.AssemblyReference.cache
+C:\Прог на Windows\C#\Ащев графика new\obj\Debug\Ащев графика new.csproj.SuggestedBindingRedirects.cache
+C:\Прог на Windows\C#\Ащев графика new\obj\Debug\Ащев_графика_new.Form1.resources
+C:\Прог на Windows\C#\Ащев графика new\obj\Debug\Ащев_графика_new.Properties.Resources.resources
+C:\Прог на Windows\C#\Ащев графика new\obj\Debug\Ащев графика new.csproj.GenerateResource.cache
+C:\Прог на Windows\C#\Ащев графика new\obj\Debug\Ащев графика new.csproj.CoreCompileInputs.cache
+C:\Прог на Windows\C#\Ащев графика new\obj\Debug\Ащев графика new.exe
+C:\Прог на Windows\C#\Ащев графика new\obj\Debug\Ащев графика new.pdb
+C:\Прог на Windows\C#\Ащев графика new\bin\Debug\Ащев графика new.exe.config
+C:\Прог на Windows\C#\Ащев графика new\bin\Debug\Ащев графика new.exe
+C:\Прог на Windows\C#\Ащев графика new\bin\Debug\Ащев графика new.pdb

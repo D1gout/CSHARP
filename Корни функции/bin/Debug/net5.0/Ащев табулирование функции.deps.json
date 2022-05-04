@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ащев табулирование функции/1.0.0": {
+        "runtime": {
+          "Ащев табулирование функции.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ащев табулирование функции/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
