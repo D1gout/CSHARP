@@ -1,0 +1,15 @@
+C:\Users\s7.LAU\source\repos\Ащев классы\obj\Debug\net5.0\Ащев классы.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s7.LAU\source\repos\Ащев классы\obj\Debug\net5.0\Ащев классы.AssemblyInfoInputs.cache
+C:\Users\s7.LAU\source\repos\Ащев классы\obj\Debug\net5.0\Ащев классы.AssemblyInfo.cs
+C:\Users\s7.LAU\source\repos\Ащев классы\obj\Debug\net5.0\Ащев классы.csproj.CoreCompileInputs.cache
+C:\Users\s7.LAU\source\repos\Ащев классы\bin\Debug\net5.0\Ащев классы.exe
+C:\Users\s7.LAU\source\repos\Ащев классы\bin\Debug\net5.0\Ащев классы.deps.json
+C:\Users\s7.LAU\source\repos\Ащев классы\bin\Debug\net5.0\Ащев классы.runtimeconfig.json
+C:\Users\s7.LAU\source\repos\Ащев классы\bin\Debug\net5.0\Ащев классы.runtimeconfig.dev.json
+C:\Users\s7.LAU\source\repos\Ащев классы\bin\Debug\net5.0\Ащев классы.dll
+C:\Users\s7.LAU\source\repos\Ащев классы\bin\Debug\net5.0\ref\Ащев классы.dll
+C:\Users\s7.LAU\source\repos\Ащев классы\bin\Debug\net5.0\Ащев классы.pdb
+C:\Users\s7.LAU\source\repos\Ащев классы\obj\Debug\net5.0\Ащев классы.dll
+C:\Users\s7.LAU\source\repos\Ащев классы\obj\Debug\net5.0\ref\Ащев классы.dll
+C:\Users\s7.LAU\source\repos\Ащев классы\obj\Debug\net5.0\Ащев классы.pdb
+C:\Users\s7.LAU\source\repos\Ащев классы\obj\Debug\net5.0\Ащев классы.genruntimeconfig.cache
