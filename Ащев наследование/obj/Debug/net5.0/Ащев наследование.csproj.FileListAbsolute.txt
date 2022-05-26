@@ -1,0 +1,31 @@
+C:\Users\s7.LAU\source\repos\Ащев наследование\obj\Debug\net5.0\Ащев наследование.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s7.LAU\source\repos\Ащев наследование\obj\Debug\net5.0\Ащев наследование.AssemblyInfoInputs.cache
+C:\Users\s7.LAU\source\repos\Ащев наследование\obj\Debug\net5.0\Ащев наследование.AssemblyInfo.cs
+C:\Users\s7.LAU\source\repos\Ащев наследование\obj\Debug\net5.0\Ащев наследование.csproj.CoreCompileInputs.cache
+C:\Users\s7.LAU\source\repos\Ащев наследование\bin\Debug\net5.0\Ащев наследование.exe
+C:\Users\s7.LAU\source\repos\Ащев наследование\bin\Debug\net5.0\Ащев наследование.deps.json
+C:\Users\s7.LAU\source\repos\Ащев наследование\bin\Debug\net5.0\Ащев наследование.runtimeconfig.json
+C:\Users\s7.LAU\source\repos\Ащев наследование\bin\Debug\net5.0\Ащев наследование.runtimeconfig.dev.json
+C:\Users\s7.LAU\source\repos\Ащев наследование\bin\Debug\net5.0\Ащев наследование.dll
+C:\Users\s7.LAU\source\repos\Ащев наследование\bin\Debug\net5.0\ref\Ащев наследование.dll
+C:\Users\s7.LAU\source\repos\Ащев наследование\bin\Debug\net5.0\Ащев наследование.pdb
+C:\Users\s7.LAU\source\repos\Ащев наследование\obj\Debug\net5.0\Ащев наследование.dll
+C:\Users\s7.LAU\source\repos\Ащев наследование\obj\Debug\net5.0\ref\Ащев наследование.dll
+C:\Users\s7.LAU\source\repos\Ащев наследование\obj\Debug\net5.0\Ащев наследование.pdb
+C:\Users\s7.LAU\source\repos\Ащев наследование\obj\Debug\net5.0\Ащев наследование.genruntimeconfig.cache
+C:\Прог на Windows\C#\Ащев наследование\bin\Debug\net5.0\Ащев наследование.exe
+C:\Прог на Windows\C#\Ащев наследование\bin\Debug\net5.0\Ащев наследование.deps.json
+C:\Прог на Windows\C#\Ащев наследование\bin\Debug\net5.0\Ащев наследование.runtimeconfig.json
+C:\Прог на Windows\C#\Ащев наследование\bin\Debug\net5.0\Ащев наследование.runtimeconfig.dev.json
+C:\Прог на Windows\C#\Ащев наследование\bin\Debug\net5.0\Ащев наследование.dll
+C:\Прог на Windows\C#\Ащев наследование\bin\Debug\net5.0\Ащев наследование.pdb
+C:\Прог на Windows\C#\Ащев наследование\obj\Debug\net5.0\Ащев наследование.csproj.AssemblyReference.cache
+C:\Прог на Windows\C#\Ащев наследование\obj\Debug\net5.0\Ащев наследование.GeneratedMSBuildEditorConfig.editorconfig
+C:\Прог на Windows\C#\Ащев наследование\obj\Debug\net5.0\Ащев наследование.AssemblyInfoInputs.cache
+C:\Прог на Windows\C#\Ащев наследование\obj\Debug\net5.0\Ащев наследование.AssemblyInfo.cs
+C:\Прог на Windows\C#\Ащев наследование\obj\Debug\net5.0\Ащев наследование.csproj.CoreCompileInputs.cache
+C:\Прог на Windows\C#\Ащев наследование\obj\Debug\net5.0\Ащев наследование.dll
+C:\Прог на Windows\C#\Ащев наследование\obj\Debug\net5.0\refint\Ащев наследование.dll
+C:\Прог на Windows\C#\Ащев наследование\obj\Debug\net5.0\Ащев наследование.pdb
+C:\Прог на Windows\C#\Ащев наследование\obj\Debug\net5.0\Ащев наследование.genruntimeconfig.cache
+C:\Прог на Windows\C#\Ащев наследование\obj\Debug\net5.0\ref\Ащев наследование.dll
