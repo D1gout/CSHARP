@@ -1,2 +1,2 @@
 # C#
-Мои проекты на языке C#
+Language learning projects
